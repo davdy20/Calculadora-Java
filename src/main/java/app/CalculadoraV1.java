@@ -32,7 +32,7 @@ public class CalculadoraV1 {
 		
 		criarBotao("7", 30, 170);
 		criarBotao("8", 90, 170);
-		criarBotao("9", 150, 170);
+		criarBotao("9", 120, 170);
 		
 		criarBotao("0", 90, 220);
 		
